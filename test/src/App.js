@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          run
+          yuna edit
         </a>
       </header>
     </div>
